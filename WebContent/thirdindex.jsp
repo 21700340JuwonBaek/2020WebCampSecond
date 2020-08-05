@@ -13,7 +13,7 @@ Enter Name:<input type="text" name="name" />
 </form>  
 
 <%  
-session.setAttribute("apple","Juwon");  
+session.setAttribute("apple","Handong");
 %>  
   
 <a href="thirdprocess.jsp">Session.apple 변화</a>  
